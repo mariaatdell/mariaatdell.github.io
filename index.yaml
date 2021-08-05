@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - pages-1.0.0.tgz
+    - https://mariaatdell.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2021-08-05T14:34:49.201441024+01:00"
